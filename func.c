@@ -6,3 +6,8 @@
     printf("O resultado é: %d", ret);
     return 0;
   }
+  
+    int mult(int a, int b){
+  	return a * b;
+  }
+
